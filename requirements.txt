@@ -1,0 +1,7 @@
+﻿#Dependencias del proyecto
+numpy
+pandas
+scikit-learn
+tensorflow
+torch
+flask

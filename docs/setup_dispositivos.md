@@ -1,0 +1,1 @@
+Guía sobre cómo conectar los dispositivos biométricos al sistema.

@@ -1,0 +1,1 @@
+Explicación del modelo de inteligencia artificial utilizado para procesar los datos y adaptar el aprendizaje.

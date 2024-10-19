@@ -1,0 +1,1 @@
+#Código de la aplicación que adaptará el contenido de aprendizaje

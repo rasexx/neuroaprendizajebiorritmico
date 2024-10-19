@@ -1,0 +1,1 @@
+Documentación de las APIs usadas para obtener datos (Apple Health, Google Fit, etc.).
