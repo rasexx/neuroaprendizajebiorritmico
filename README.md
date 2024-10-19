@@ -1,6 +1,6 @@
 # Neuroaprendizaje Biorrítmico
 
-![Banner futuristic brain](https://www.canva.com/design/DAGT-QVjh0k/IcWN8voYaYWeStltxdd9bQ/view)
+[[https://github.com/rasexx/neuroaprendizajebiorritmico/blob/main/source_research_documentation/readme_data/pexels-googledeepmind-17483868.png]]
 
 #### NOTA DEL AUTOR: Este borrador del proyecto presenta a NABR, una idea consolidada y en constante formacion y adaptabilidad que esta puesta al servicio de toda la humanidad buscando aumentar el potencial humano en esta nueva era tecnológica.
 
