@@ -1,11 +1,10 @@
 # Neuroaprendizaje Biorrítmico
 
-![Banner futuristic brain](source_research_documentation\readme.md\pexels-googledeepmind-17483868.jpg)
-
-##NOTA DEL AUTOR: Este borrador del proyecto presenta a NABR, una idea consolidada y en constante formacion y adaptabilidad que esta puesta al servicio de toda la humanidad buscando aumentar el potencial humano en esta nueva era tecnológica.
+## NOTA DEL AUTOR: Este borrador del proyecto presenta a NABR, una idea consolidada y en constante formacion y adaptabilidad que esta puesta al servicio de toda la humanidad buscando aumentar el potencial humano en esta nueva era tecnológica.
 
 #### Maquetacion de la idea con IA
-[Aca podras observar como se maqueto la idea para presentar el proyecto](./readme_data/initial_researchs.md).
+
+[Aca podras observar como se maqueto la idea para presentar el proyecto](./source_research_documentarion/readme_data/initial_researchs.md).
 
 ## Descripción del Proyecto
 El **Neuroaprendizaje Biorrítmico** será una metodología innovadora que combinará datos biométricos y neurocognitivos para personalizar el proceso de aprendizaje. Utilizaremos dispositivos como smartwatches y anillos inteligentes para medir parámetros biológicos y, a través de inteligencia artificial, adaptaremos el contenido educativo a las capacidades individuales.
