@@ -1,6 +1,6 @@
 # Neuroaprendizaje Biorrítmico
 
-(https://github.com/rasexx/neuroaprendizajebiorritmico/blob/main/source_research_documentation/readme_data/pexels-googledeepmind-17483868.png)
+<img src="source_research_documentation/readme_data/pexels-googledeepmind-17483868.png" alt="Imagen">
 
 #### NOTA DEL AUTOR: Este borrador del proyecto presenta a NABR, una idea consolidada y en constante formacion y adaptabilidad que esta puesta al servicio de toda la humanidad buscando aumentar el potencial humano en esta nueva era tecnológica.
 
